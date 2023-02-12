@@ -1,4 +1,4 @@
-Ejercicio realizado por Diego González Sanz
+Ejercicio realizado por Diego González Sanz\n
 Para el posicionamiento de las cosas se han mirado estas paginas
 
 - https://flexboxfroggy.com/#es
